@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\p1\publish\p1.exe
+C:\Users\user\source\repos\p1\publish\p1.pdb
